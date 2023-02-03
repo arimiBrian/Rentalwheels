@@ -1,8 +1,4 @@
-GROUP MEMBERS
-1.	Brian Kithinji       111410
-2.	Noela Ahindukha      121432
-3.	Angela Wema          120693
-4.	Elizabeth Okoth      121569
+
 
 Technologies used
 - Firebase
